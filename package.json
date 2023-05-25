@@ -1,6 +1,6 @@
 {
   "name": "yoga-web",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "yoga-web",
   "main": "dist/index.js",
   "types": "index.d.ts",
@@ -17,10 +17,10 @@
     "url": "https://github.com/903529487/yoga-web"
   },
   "keywords": [
+    "yoga-web",
+    "yoga",
     "webassembly",
-    "wasm",
-    "yoga-layout",
-    "yoga"
+    "wasm"
   ],
   "author": "lbr",
   "license": "MIT",
